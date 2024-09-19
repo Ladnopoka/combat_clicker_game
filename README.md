@@ -2,7 +2,7 @@
 **Combat Clicker** is a browser-based, turn-based game where you face off against a cunning rat warrior. Your goal is simple: get lucky and guess the right option to defeat the rat! The game features a mix of attack and defense options, requiring players to choose where to strike and where to defend.
 
 ## Game Presentation
-Here’s a project presentation video where I showcase the game and my teammate covers the work on the game menus:
+Here’s a project presentation video where I showcase the game and my teammate covers the work on the game menus, click on the image to see:
 [![Watch the video](https://img.youtube.com/vi/Mptg1MEHPik/maxresdefault.jpg)](https://www.youtube.com/watch?v=Mptg1MEHPik)
 
 ## How to Play
